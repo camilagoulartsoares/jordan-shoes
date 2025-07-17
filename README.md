@@ -20,13 +20,4 @@ Durante o projeto,foi utilizado:
 
 ![preview](https://user-images.githubusercontent.com/85360804/141332381-b1a758ed-dbdb-44d5-bb68-eb26b389519f.png)
 
-## 🛠 Tecnologias e ferramentas utilizadas
 
-* React.js
-* Styled-components
-* Visual Studio Code
-* Lib Animate on Scroll (AOS)
-
-<br>
-
-<p> Feito por Camila Goulart 💖</p>
